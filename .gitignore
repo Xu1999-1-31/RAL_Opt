@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Checkpoints
+ral_opt/checkpoints/
+
+# Data directories
+data/chunk/
+data/ep_cones/

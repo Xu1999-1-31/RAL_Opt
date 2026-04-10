@@ -1,0 +1,12 @@
+# RAL-Opt dependencies
+# Install PyTorch + CUDA first:
+#   conda install pytorch==2.4.0 pytorch-cuda=12.4 -c pytorch -c nvidia
+# Install DGL matching your PyTorch/CUDA:
+#   conda install -c dglteam/label/th24_cu124 dgl
+
+torch>=2.4.0
+dgl>=2.4.0
+networkx>=3.4
+numpy>=1.26
+scipy>=1.15
+tqdm>=4.66

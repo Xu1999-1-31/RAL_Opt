@@ -1,0 +1,23 @@
+{
+    "_comment": "Chunk & Store config. designs=null runs all designs.",
+
+    "designs": [],
+
+    "chunk_3hop": {
+        "k_hop": 3,
+        "num_workers": 4,
+        "chunksize": 64,
+        "neg_only": true,
+        "write_node_names": true
+    },
+
+    "chunk_ep_cones": {
+        "cone_dir": "fanin",
+        "max_hops": null,
+        "max_nodes": 100000,
+        "num_workers": 8,
+        "write_node_names": true
+    },
+
+    "_note_designs": "e.g. [\"sasc_top\"]. null = all keys in design_dir."
+}

@@ -1,0 +1,26 @@
+{
+    "_comment": "RAL (Retrieval-Augmented Learning) training config. y_keys / train_designs / test_designs are inherited from global.json.",
+
+    "hetero": false,
+    "topk": 5,
+    "epochs": 10,
+    "batch_size": 1,
+    "lr": 2e-4,
+    "weight_decay": 0.0,
+    "noise_std": 0.01,
+    "log_every": 20,
+    "grad_clip": 1.0,
+    "lr_min": 1e-6,
+
+    "index_split": "train",
+    "index_out_subdir": "student3hop",
+
+    "decoder_hid_dim": 256,
+    "decoder_dropout": 0.1,
+    "decoder_cross_attn_heads": 4,
+    "decoder_gnn_type": "gcn",
+    "decoder_gnn_layers": 2,
+    "decoder_gat_heads": 4,
+
+    "label_norm_ref_key": "slack"
+}

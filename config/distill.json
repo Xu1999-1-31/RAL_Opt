@@ -1,0 +1,27 @@
+{
+    "_comment": "Teacher-Student distillation training config. y_keys / train_designs / test_designs are inherited from global.json; values here override them.",
+
+    "hetero": false,
+    "gnn_type_student": "gat",
+    "hid_dim": 256,
+    "emb_dim": 256,
+    "dropout": 0.1,
+
+    "teacher_local_gnn": "gcn",
+    "teacher_trans_layers": 1,
+    "teacher_trans_heads": 1,
+
+    "epochs": 40,
+    "batch_size_cone": 2,
+    "lr_teacher": 2e-4,
+    "lr_student": 2e-4,
+    "lambda_distill": 0.5,
+    "log_every": 20,
+
+    "build_index_after_train": true,
+    "index_split": "train",
+    "index_batch_size": 128,
+    "index_out_subdir": "student3hop",
+
+    "label_norm_ref_key": "slack"
+}

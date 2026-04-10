@@ -1,0 +1,6650 @@
+Connections for cell 'U3':
+    Reference:          XNR2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  wp[0]
+    A2                  wp[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n48
+
+Connections for cell 'U8':
+    Reference:          NR2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n88
+    A2                  optlc_net_924
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n8
+
+Connections for cell 'U9':
+    Reference:          XNR2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gre_INV_149_4
+    A2                  N9
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n12
+
+Connections for cell 'U12':
+    Reference:          INVD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N9
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n37
+
+Connections for cell 'U17':
+    Reference:          XNR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gre_INV_66_4
+    A2                  N8
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n11
+
+Connections for cell 'U21':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n88
+    A2                  optlc_net_924
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n3
+
+Connections for cell 'U22':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n3
+    A2                  n4
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n1
+
+Connections for cell 'U23':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  N8
+    A2                  optlc_net_924
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n4
+
+Connections for cell 'U26':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N9
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n5
+
+Connections for cell 'U27':
+    Reference:          NR3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n8
+    A2                  optlc_net_924
+    A3                  n43
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n46
+
+Connections for cell 'U28':
+    Reference:          AN2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  wp[0]
+    A2                  we_i
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n1810
+
+Connections for cell 'U29':
+    Reference:          ND3D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  wp[1]
+    A2                  n40
+    A3                  n39
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n41
+
+Connections for cell 'U30':
+    Reference:          AN2D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1810
+    A2                  gre_INV_149_4
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n10
+
+Connections for cell 'U31':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n42
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n50
+
+Connections for cell 'U33':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N8
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n43
+
+Connections for cell 'U38':
+    Reference:          AN2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1810
+    A2                  wp[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n17
+
+Connections for cell 'U40':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   we_i
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n39
+
+Connections for cell 'U42':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   optlc_net_924
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n40
+
+Connections for cell 'U53':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  mem[4]
+    A2                  n19
+    B1                  mem[12]
+    B2                  n13
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n29
+
+Connections for cell 'U56':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  mem[5]
+    A2                  n19
+    B1                  mem[13]
+    B2                  n13
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n31
+
+Connections for cell 'U64':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  we_i
+    A2                  n40
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n42
+
+Connections for cell 'U65':
+    Reference:          NR2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  we_i
+    A2                  optlc_net_924
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n38
+
+Connections for cell 'U66':
+    Reference:          MUX2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I0                  n50
+    I1                  n38
+    S                   wp[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n1081
+
+Connections for cell 'U67':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n48
+    A2                  n42
+    B                   n41
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1071
+
+Connections for cell 'U68':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n88
+    A2                  optlc_net_924
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n44
+
+Connections for cell 'U69':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  N8
+    A2                  optlc_net_924
+    B                   n44
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n45
+
+Connections for cell 'U72':
+    Reference:          NR3D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n11
+    A2                  n12
+    A3                  gre_INV_58_4
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  full_o
+
+Connections for cell 'U74':
+    Reference:          ND3D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  ZBUF_115_2
+    A2                  net5127
+    A3                  ZINV_82_0
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n311
+
+Connections for cell 'U76':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  re_i
+    A2                  optlc_net_923
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n331
+
+Connections for cell 'U77':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  optlc_net_923
+    A2                  n371
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n321
+
+Connections for cell 'U79':
+    Reference:          NR3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n371
+    A2                  optlc_net_923
+    A3                  net4395
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n351
+
+Connections for cell 'U80':
+    Reference:          OAI21D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4585
+    A2                  optlc_net_923
+    B                   n331
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n341
+
+Connections for cell 'U85':
+    Reference:          NR3D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gb1
+    A2                  net4583
+    A3                  n431
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  empty_o
+
+Connections for cell 'U91':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net5126
+    A2                  net5127
+    A3                  n71
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n81
+
+Connections for cell 'U101':
+    Reference:          NR3D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4583
+    A2                  n213
+    A3                  n1100
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  rxf_full
+
+Connections for cell 'U111':
+    Reference:          XOR2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1wp[1]
+    A2                  N91
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   net4583
+
+Connections for cell 'U123':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n118
+
+Connections for cell 'U125':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n115
+    A2                  rx_valid_r
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n116
+
+Connections for cell 'U126':
+    Reference:          INVD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_valid
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n115
+
+Connections for cell 'U133':
+    Reference:          INVD8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n184
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n88
+
+Connections for cell 'U139':
+    Reference:          AN2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rst
+    A2                  sio_ce
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n124
+
+Connections for cell 'U145':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n127
+    A2                  n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n120
+
+Connections for cell 'U150':
+    Reference:          AN2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_sio_ce
+    A2                  rx_go
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n135
+
+Connections for cell 'U164':
+    Reference:          ND3D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  shift_en
+    A2                  copt_net_910
+    A3                  n184
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n204
+
+Connections for cell 'U167':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n162
+
+Connections for cell 'U170':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   shift_en_r
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n209
+
+Connections for cell 'U176':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n89
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n200
+
+Connections for cell 'U177':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_sio_ce_r1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n148
+
+Connections for cell 'U178':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n87
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  txd_o
+
+Connections for cell 'U179':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   sio_ce_x4
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n144
+
+Connections for cell 'U184':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  change
+    A2                  n144
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n139
+
+Connections for cell 'U192':
+    Reference:          NR2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_sio_ce_r2
+    A2                  n148
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  N118
+
+Connections for cell 'U193':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n120
+    A2                  rx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n151
+
+Connections for cell 'U224':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  hold_reg[7]
+    A2                  n201
+    B1                  hold_reg[8]
+    B2                  n199
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n188
+
+Connections for cell 'U239':
+    Reference:          AOI22D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  hold_reg[2]
+    A2                  n201
+    B1                  hold_reg[3]
+    B2                  n199
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n198
+
+Connections for cell 'U242':
+    Reference:          AOI22D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n201
+    A2                  n200
+    B1                  hold_reg[2]
+    B2                  n199
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n203
+
+Connections for cell 'U246':
+    Reference:          MUX2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I0                  n209
+    I1                  n210
+    S                   sio_ce
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n207
+
+Connections for cell 'U247':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n207
+    A2                  n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n91
+
+Connections for cell 'U281':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N81
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  C171_net4571
+
+Connections for cell 'U301':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  optlc_net_923
+    A2                  ZINV_38_1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n301
+
+Connections for cell 'U311':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n1wp[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5141
+
+Connections for cell 'U321_roptpi_4468':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4383
+    A2                  net5142
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5180
+
+Connections for cell 'U331':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N91
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5194
+
+Connections for cell 'U381':
+    Reference:          XOR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net5141
+    A2                  N81
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n421
+
+Connections for cell 'U391':
+    Reference:          XOR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1wp[1]
+    A2                  net5141
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n361
+
+Connections for cell 'U401':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n361
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n71
+
+Connections for cell 'U421':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   optlc_net_923
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5127
+
+Connections for cell 'U431':
+    Reference:          AN2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net5142
+    A2                  ZBUF_115_2
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   net5075
+
+Connections for cell 'U441':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n421
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n431
+
+Connections for cell 'U451':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n331
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n371
+
+Connections for cell 'U510':
+    Reference:          NR3D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  ZINV_82_0
+    A2                  optlc_net_923
+    A3                  n421
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n391
+
+Connections for cell 'U521':
+    Reference:          AOI22D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[25]
+    A2                  n291
+    B1                  n1mem[17]
+    B2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1210
+
+Connections for cell 'U701':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[31]
+    A2                  n291
+    B1                  n1mem[23]
+    B2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n261
+
+Connections for cell 'U731':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   net5194
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4606
+
+Connections for cell 'U1210':
+    Reference:          XOR2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  N81
+    A2                  n1wp[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n213
+
+Connections for cell 'U1310':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   gb1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1100
+
+Connections for cell 'U1710':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   net5141
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5142
+
+Connections for cell 'U1810':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ZBUF_115_2
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4383
+
+Connections for cell 'U2410':
+    Reference:          AN2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  ZINV_82_1
+    A2                  net5127
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   net4408
+
+Connections for cell 'ZBUF_20_inst_2362':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n184
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ZBUF_20_1
+
+Connections for cell 'ZBUF_115_inst_1341':
+    Reference:          BUFFD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n1wp[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ZBUF_115_2
+
+Connections for cell 'ZBUF_123_inst_3955':
+    Reference:          BUFFD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n9
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ZBUF_123_4
+
+Connections for cell 'ZBUF_137_inst_3954':
+    Reference:          BUFFD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n14
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ZBUF_137_4
+
+Connections for cell 'change_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n98
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   change
+
+Connections for cell 'copt_gre_h_inst_4516':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n88
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_gre_net_925
+
+Connections for cell 'copt_h_inst_4470':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[3]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_901
+
+Connections for cell 'copt_h_inst_4471':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_902
+
+Connections for cell 'copt_h_inst_4472':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_903
+
+Connections for cell 'copt_h_inst_4473':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_904
+
+Connections for cell 'copt_h_inst_4474':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[4]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_905
+
+Connections for cell 'copt_h_inst_4475':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[3]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_906
+
+Connections for cell 'copt_h_inst_4476':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[6]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_907
+
+Connections for cell 'copt_h_inst_4477':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[7]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_908
+
+Connections for cell 'copt_h_inst_4478':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[4]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_909
+
+Connections for cell 'copt_h_inst_4479':
+    Reference:          BUFFD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   sio_ce
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_910
+
+Connections for cell 'copt_h_inst_4482':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[6]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_913
+
+Connections for cell 'copt_h_inst_4483':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   din_i[5]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_914
+
+Connections for cell 'copt_h_inst_4485':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[9]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_916
+
+Connections for cell 'copt_h_inst_4486':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_917
+
+Connections for cell 'copt_h_inst_4487':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rst
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_918
+
+Connections for cell 'copt_h_inst_4489':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[7]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_920
+
+Connections for cell 'copt_h_inst_4490':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[5]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_921
+
+Connections for cell 'copt_h_inst_4491':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxr[8]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_922
+
+Connections for cell 'ctmTdsLR_1_446':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_13
+    A2                  n1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1061
+
+Connections for cell 'ctmTdsLR_1_452':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n127
+    A2                  n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n121
+
+Connections for cell 'ctmTdsLR_1_504':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gre_INV_520_4
+    A2                  popt_net_27
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n126
+
+Connections for cell 'ctmTdsLR_1_515':
+    Reference:          AOI21D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_31
+    A2                  n139
+    B                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n98
+
+Connections for cell 'ctmTdsLR_1_683':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_82
+    A2                  popt_net_77
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_57
+
+Connections for cell 'ctmTdsLR_1_770':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   sio_ce
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net121
+
+Connections for cell 'ctmTdsLR_1_777':
+    Reference:          AN2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  change
+    A2                  dpll_state_0_
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_96
+
+Connections for cell 'ctmTdsLR_1_778_roptpi_4467':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4391
+    A2                  net4383
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5183
+
+Connections for cell 'ctmTdsLR_1_1212':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  change
+    A2                  popt_net_109
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_87
+
+Connections for cell 'ctmTdsLR_1_1213':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n126
+    A2                  n128
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n131
+
+Connections for cell 'ctmTdsLR_1_1225':
+    Reference:          BUFFD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rxf_full
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ZBUF_2_0
+
+Connections for cell 'ctmTdsLR_1_1227':
+    Reference:          OAI31D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1100
+    A2                  n213
+    A3                  net4583
+    B                   popt_net_103
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  ZINV_82_1
+
+Connections for cell 'ctmTdsLR_1_1253':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_57
+    A2                  n145
+    B                   popt_net_144
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n212
+
+Connections for cell 'ctmTdsLR_1_1280':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_154
+    A2                  popt_net_135
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n86
+
+Connections for cell 'ctmTdsLR_1_1355':
+    Reference:          ND2D6
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  load
+    A2                  sio_ce
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n184
+
+Connections for cell 'ctmTdsLR_1_1451':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gre_INV_520_4
+    A2                  load
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n119
+
+Connections for cell 'ctmTdsLR_1_1470':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N8
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n36
+
+Connections for cell 'ctmTdsLR_1_1787':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_328
+    A2                  n188
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n105
+
+Connections for cell 'ctmTdsLR_1_1814':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n120
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n155
+
+Connections for cell 'ctmTdsLR_1_1830':
+    Reference:          INVD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rst
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n206
+
+Connections for cell 'ctmTdsLR_1_1870':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n205
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n201
+
+Connections for cell 'ctmTdsLR_1_1885':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  txd_p[1]
+    A2                  popt_net_371
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n197
+
+Connections for cell 'ctmTdsLR_1_2320':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_385
+    A2                  n88
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_247
+
+Connections for cell 'ctmTdsLR_1_2327':
+    Reference:          ND2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_sio_ce
+    A2                  rx_go
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n127
+
+Connections for cell 'ctmTdsLR_1_2338':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n119
+    A2                  popt_net_218
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n175
+
+Connections for cell 'ctmTdsLR_1_2360':
+    Reference:          OAI31D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n12
+    A2                  n11
+    A3                  popt_net_396
+    B                   popt_net_26
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n113
+
+Connections for cell 'ctmTdsLR_1_2366':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_387
+    A2                  n203
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n111
+
+Connections for cell 'ctmTdsLR_1_2372':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_341
+    A2                  popt_net_342
+    A3                  popt_net_340
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  txd_p[1]
+
+Connections for cell 'ctmTdsLR_1_2399':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_411
+    A2                  popt_net_375
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_387
+
+Connections for cell 'ctmTdsLR_1_2423':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n131
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n136
+
+Connections for cell 'ctmTdsLR_1_2461':
+    Reference:          OAI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_436
+    A2                  popt_net_447
+    B1                  popt_net_434
+    B2                  popt_net_435
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n961
+
+Connections for cell 'ctmTdsLR_1_2478':
+    Reference:          AN2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rst
+    A2                  n184
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n134
+
+Connections for cell 'ctmTdsLR_1_2481':
+    Reference:          OR3D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n93
+    A2                  rx_go
+    A3                  rxd_s
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   tmp_net456
+
+Connections for cell 'ctmTdsLR_1_2484':
+    Reference:          AN2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n50
+    A2                  rst
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_446
+
+Connections for cell 'ctmTdsLR_1_2488':
+    Reference:          OR2D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  C171_net1717
+    A2                  N81
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   tmp_net460
+
+Connections for cell 'ctmTdsLR_1_2918':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n197
+    A2                  n198
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n110
+
+Connections for cell 'ctmTdsLR_1_2920':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_277
+    A2                  tx_bit_cnt[3]
+    A3                  tx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  N123
+
+Connections for cell 'ctmTdsLR_1_2929':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  sio_ce
+    A2                  popt_net_471
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_396
+
+Connections for cell 'ctmTdsLR_1_2935':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_389
+    A2                  popt_net_250
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1051
+
+Connections for cell 'ctmTdsLR_1_2936':
+    Reference:          AN2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n119
+    A2                  n124
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n122
+
+Connections for cell 'ctmTdsLR_1_2941':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n204
+    A2                  n184
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n205
+
+Connections for cell 'ctmTdsLR_1_2950':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n8
+    A2                  N8
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_13
+
+Connections for cell 'ctmTdsLR_1_2951':
+    Reference:          MUX2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I0                  n351
+    I1                  n341
+    S                   net4606
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n471
+
+Connections for cell 'ctmTdsLR_1_2981':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n165
+    A2                  rx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_384
+
+Connections for cell 'ctmTdsLR_1_3039':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_500
+    A2                  net5180
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4613
+
+Connections for cell 'ctmTdsLR_1_3154':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N91
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  C171_net1717
+
+Connections for cell 'ctmTdsLR_1_3238':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n133
+    A2                  rx_bit_cnt[2]
+    B                   popt_net_566
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_537
+
+Connections for cell 'ctmTdsLR_1_3249':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_230
+    A2                  popt_net_231
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n14
+
+Connections for cell 'ctmTdsLR_1_3319':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_587
+    A2                  popt_net_213
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n9
+
+Connections for cell 'ctmTdsLR_1_3345':
+    Reference:          AOI21D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_12
+    A2                  popt_net_597
+    B                   popt_net_160
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n97
+
+Connections for cell 'ctmTdsLR_1_3501':
+    Reference:          AOI31D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_652
+    A2                  n171
+    A3                  tx_bit_cnt[2]
+    B                   popt_net_653
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n101
+
+Connections for cell 'ctmTdsLR_1_3511':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   tmp_net460
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n281
+
+Connections for cell 'ctmTdsLR_1_3548':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n281
+    A2                  n1mem[8]
+    B1                  n1mem[0]
+    B2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1110
+
+Connections for cell 'ctmTdsLR_1_3552':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[12]
+    A2                  n281
+    B1                  n1mem[4]
+    B2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_593
+
+Connections for cell 'ctmTdsLR_1_3562':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n45
+    A2                  N9
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_389
+
+Connections for cell 'ctmTdsLR_1_3607':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n119
+    A2                  popt_net_694
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_691
+
+Connections for cell 'ctmTdsLR_1_3612':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n134
+    A2                  n131
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n171
+
+Connections for cell 'ctmTdsLR_1_3632':
+    Reference:          AN2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  N9
+    A2                  N8
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n19
+
+Connections for cell 'ctmTdsLR_1_3649':
+    Reference:          ND3D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_690
+    A2                  popt_net_691
+    A3                  popt_net_708
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n103
+
+Connections for cell 'ctmTdsLR_1_3962':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4395
+    A2                  n331
+    B                   popt_net_598
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n461
+
+Connections for cell 'ctmTdsLR_1_3963':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1210
+    A2                  copt_net_719
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[1]
+
+Connections for cell 'ctmTdsLR_1_3976':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N81
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4395
+
+Connections for cell 'ctmTdsLR_1_3977':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_465
+    A2                  popt_net_466
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5095
+
+Connections for cell 'ctmTdsLR_1_3985':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_724
+    A2                  n31
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  txd_p[5]
+
+Connections for cell 'ctmTdsLR_1_3989':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  load
+    A2                  popt_net_343
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n128
+
+Connections for cell 'ctmTdsLR_1_3999':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n311
+    A2                  n81
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n441
+
+Connections for cell 'ctmTdsLR_1_4007':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_568
+    A2                  popt_net_211
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4612
+
+Connections for cell 'ctmTdsLR_1_4011':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rxf_full
+    A2                  n116
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_654
+
+Connections for cell 'ctmTdsLR_1_4012':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   net4395
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4585
+
+Connections for cell 'ctmTdsLR_1_4017':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_247
+    A2                  popt_net_248
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n107
+
+Connections for cell 'ctmTdsLR_1_4019':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  txd_p[7]
+    A2                  n88
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_680
+
+Connections for cell 'ctmTdsLR_1_4021':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n18
+    A2                  n118
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n99
+
+Connections for cell 'ctmTdsLR_1_4027':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   popt_net_654
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  ZINV_82_0
+
+Connections for cell 'ctmTdsLR_1_4039':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  ZBUF_123_4
+    A2                  mem[25]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_342
+
+Connections for cell 'ctmTdsLR_1_4040':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n163
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_21
+
+Connections for cell 'ctmTdsLR_1_4041':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rxf_full
+    A2                  n116
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net5126
+
+Connections for cell 'ctmTdsLR_1_4042':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_737
+    A2                  net5183
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4403
+
+Connections for cell 'ctmTdsLR_1_4051':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   shift_en
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n210
+
+Connections for cell 'ctmTdsLR_1_4053':
+    Reference:          AOI21D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_743
+    A2                  n158
+    B                   popt_net_537
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n95
+
+Connections for cell 'ctmTdsLR_1_4061':
+    Reference:          NR4D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_388
+    A2                  copt_net_745
+    A3                  popt_net_159
+    A4                  popt_net_11
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_160
+
+Connections for cell 'ctmTdsLR_1_4073':
+    Reference:          AN2D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  C171_net4571
+    A2                  net5194
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n291
+
+Connections for cell 'ctmTdsLR_1_4088':
+    Reference:          ND3D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_748
+    A2                  copt_net_749
+    A3                  copt_net_750
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[2]
+
+Connections for cell 'ctmTdsLR_1_4092':
+    Reference:          AN2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  C171_net1717
+    A2                  N81
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n251
+
+Connections for cell 'ctmTdsLR_1_4094':
+    Reference:          ND3D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_594
+    A2                  copt_net_751
+    A3                  popt_net_593
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[4]
+
+Connections for cell 'ctmTdsLR_1_4115':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_762
+    A2                  copt_net_763
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n100
+
+Connections for cell 'ctmTdsLR_1_4118':
+    Reference:          NR2D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_764
+    A2                  wp[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n15
+
+Connections for cell 'ctmTdsLR_1_4122':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  txf_empty_r
+    A2                  copt_net_765
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  N19
+
+Connections for cell 'ctmTdsLR_1_4127':
+    Reference:          AN3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_bit_cnt[0]
+    A2                  rx_bit_cnt[1]
+    A3                  n121
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n133
+
+Connections for cell 'ctmTdsLR_1_4136':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   net5142
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  net4391
+
+Connections for cell 'ctmTdsLR_1_4153':
+    Reference:          ND3D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_777
+    A2                  copt_net_778
+    A3                  copt_net_779
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_735
+
+Connections for cell 'ctmTdsLR_1_4159':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n162
+    A2                  n120
+    B                   copt_net_781
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_743
+
+Connections for cell 'ctmTdsLR_1_4165':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   tx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n179
+
+Connections for cell 'ctmTdsLR_1_4193':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_792
+    A2                  popt_net_384
+    A3                  rx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  N128
+
+Connections for cell 'ctmTdsLR_1_4203':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_767
+    A2                  copt_net_793
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n109
+
+Connections for cell 'ctmTdsLR_1_4238':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_97
+    A2                  net5194
+    B                   popt_net_632
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net125
+
+Connections for cell 'ctmTdsLR_1_4243':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_680
+    A2                  popt_net_61
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n104
+
+Connections for cell 'ctmTdsLR_1_4253':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ZINV_82_1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n56
+
+Connections for cell 'ctmTdsLR_1_4260':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_810
+    A2                  popt_net_175
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n481
+
+Connections for cell 'ctmTdsLR_1_4264':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_570
+    A2                  popt_net_569
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n106
+
+Connections for cell 'ctmTdsLR_1_4265':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_721
+    A2                  n29
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_385
+
+Connections for cell 'ctmTdsLR_1_4266':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_811
+    A2                  tmp_net459
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  txd_p[6]
+
+Connections for cell 'ctmTdsLR_1_4273':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_814
+    A2                  n120
+    B                   copt_net_798
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_799
+
+Connections for cell 'ctmTdsLR_1_4276':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  txd_p[5]
+    A2                  n88
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_570
+
+Connections for cell 'ctmTdsLR_1_4277':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  txd_p[6]
+    A2                  copt_gre_net_925
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_328
+
+Connections for cell 'ctmTdsLR_1_4278':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_382
+    A2                  copt_net_815
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n158
+
+Connections for cell 'ctmTdsLR_1_4280':
+    Reference:          ND4D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_361
+    A2                  popt_net_363
+    A3                  popt_net_362
+    A4                  copt_net_813
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  txd_p[7]
+
+Connections for cell 'ctmTdsLR_1_4293':
+    Reference:          OAI31D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1100
+    A2                  n213
+    A3                  net4583
+    B                   copt_net_823
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  ZINV_38_1
+
+Connections for cell 'ctmTdsLR_1_4295':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[3]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n165
+
+Connections for cell 'ctmTdsLR_1_4311':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_829
+    A2                  copt_net_831
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_512
+
+Connections for cell 'ctmTdsLR_1_4340':
+    Reference:          ND3D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_510
+    A2                  copt_net_840
+    A3                  popt_net_512
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_469
+
+Connections for cell 'ctmTdsLR_1_4344':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   popt_net_587
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_700
+
+Connections for cell 'ctmTdsLR_1_4420':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net875
+    A2                  copt_net_833
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_411
+
+Connections for cell 'ctmTdsLR_1_4422':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4383
+    A2                  net5142
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_466
+
+Connections for cell 'ctmTdsLR_1_4424':
+    Reference:          OAI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n89
+    A2                  n204
+    B1                  n205
+    B2                  n90
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n112
+
+Connections for cell 'ctmTdsLR_1_4426':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net876
+    A2                  copt_net_744
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n108
+
+Connections for cell 'ctmTdsLR_1_4437':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1710
+    A2                  tmp_net883
+    A3                  tmp_net884
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[3]
+
+Connections for cell 'ctmTdsLR_1_4440':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_bit_cnt[0]
+    A2                  tmp_net885
+    B                   tmp_net886
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n96
+
+Connections for cell 'ctmTdsLR_1_4443':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_670
+    A2                  tmp_net887
+    A3                  tmp_net888
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[6]
+
+Connections for cell 'ctmTdsLR_1_4446':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1110
+    A2                  tmp_net889
+    A3                  tmp_net890
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[0]
+
+Connections for cell 'ctmTdsLR_1_4450':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_671
+    A2                  tmp_net891
+    A3                  tmp_net892
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[5]
+
+Connections for cell 'ctmTdsLR_1_4454':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net893
+    A2                  n261
+    A3                  tmp_net894
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  dout_o[7]
+
+Connections for cell 'ctmTdsLR_1_4457':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net896
+    A2                  tx_bit_cnt[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_653
+
+Connections for cell 'ctmTdsLR_1_4460':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net897
+    A2                  sio_ce
+    B                   tmp_net900
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n18
+
+Connections for cell 'ctmTdsLR_2_444':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_11
+
+Connections for cell 'ctmTdsLR_2_505':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   tx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_27
+
+Connections for cell 'ctmTdsLR_2_516':
+    Reference:          XOR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rxd_s
+    A2                  n93
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_31
+
+Connections for cell 'ctmTdsLR_2_677':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   sio_ce_x4
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_77
+
+Connections for cell 'ctmTdsLR_2_684':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  change
+    A2                  dpll_state_0_
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_82
+
+Connections for cell 'ctmTdsLR_2_707':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   dpll_state_0_
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_94
+
+Connections for cell 'ctmTdsLR_2_723':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n115
+    A2                  rx_valid_r
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_103
+
+Connections for cell 'ctmTdsLR_2_732':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   sio_ce_x4
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_109
+
+Connections for cell 'ctmTdsLR_2_771':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net121
+    A2                  txf_empty_r
+    B                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_26
+
+Connections for cell 'ctmTdsLR_2_1254':
+    Reference:          ND3D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n145
+    A2                  dpll_state_0_
+    A3                  popt_net_143
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_144
+
+Connections for cell 'ctmTdsLR_2_1281':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_94
+    A2                  popt_net_87
+    B                   tmp_net878
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_154
+
+Connections for cell 'ctmTdsLR_2_1320':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   tx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_164
+
+Connections for cell 'ctmTdsLR_2_1490':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n37
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_230
+
+Connections for cell 'ctmTdsLR_2_1619':
+    Reference:          AN2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n184
+    A2                  tx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_269
+
+Connections for cell 'ctmTdsLR_2_1646':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tx_bit_cnt[2]
+    A2                  tx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_277
+
+Connections for cell 'ctmTdsLR_2_1818':
+    Reference:          AOI22D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n19
+    A2                  mem[1]
+    B1                  n13
+    B2                  mem[9]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_340
+
+Connections for cell 'ctmTdsLR_2_1829':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n124
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_343
+
+Connections for cell 'ctmTdsLR_2_1866':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n19
+    A2                  mem[7]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_361
+
+Connections for cell 'ctmTdsLR_2_1871':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n204
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n199
+
+Connections for cell 'ctmTdsLR_2_1886':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ZBUF_20_1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_371
+
+Connections for cell 'ctmTdsLR_2_1896':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ZBUF_20_1
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_375
+
+Connections for cell 'ctmTdsLR_2_2309':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n163
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_382
+
+Connections for cell 'ctmTdsLR_2_2331':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n163
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_388
+
+Connections for cell 'ctmTdsLR_2_2443':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n8
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_434
+
+Connections for cell 'ctmTdsLR_2_2462':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n11
+    A2                  popt_net_446
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_447
+
+Connections for cell 'ctmTdsLR_2_2482':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net457
+
+Connections for cell 'ctmTdsLR_2_2486':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n19
+    A2                  mem[6]
+    B1                  n13
+    B2                  mem[14]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net459
+
+Connections for cell 'ctmTdsLR_2_2909':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n56
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_465
+
+Connections for cell 'ctmTdsLR_2_2930':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   gb
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_471
+
+Connections for cell 'ctmTdsLR_2_2971':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_483
+    A2                  n136
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_484
+
+Connections for cell 'ctmTdsLR_2_3040':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n56
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_500
+
+Connections for cell 'ctmTdsLR_2_3060':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n19
+    A2                  mem[2]
+    B1                  n13
+    B2                  mem[10]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_510
+
+Connections for cell 'ctmTdsLR_2_3118':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n36
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_531
+
+Connections for cell 'ctmTdsLR_2_3239':
+    Reference:          OR2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_bit_cnt[3]
+    A2                  n206
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_566
+
+Connections for cell 'ctmTdsLR_2_3244':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n56
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_568
+
+Connections for cell 'ctmTdsLR_2_3246':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n201
+    A2                  hold_reg[6]
+    B1                  n199
+    B2                  hold_reg[7]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_569
+
+Connections for cell 'ctmTdsLR_2_3250':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  ZBUF_137_4
+    A2                  mem[17]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_341
+
+Connections for cell 'ctmTdsLR_2_3320':
+    Reference:          INVD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n37
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_587
+
+Connections for cell 'ctmTdsLR_2_3349':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net4395
+    A2                  n321
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_598
+
+Connections for cell 'ctmTdsLR_2_3445':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_97
+    A2                  net5194
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_632
+
+Connections for cell 'ctmTdsLR_2_3502':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n122
+    A2                  n179
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_652
+
+Connections for cell 'ctmTdsLR_2_3512':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  C171_net4571
+    A2                  C171_net1717
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n94
+
+Connections for cell 'ctmTdsLR_2_3545':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[14]
+    A2                  n281
+    B1                  n1mem[6]
+    B2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_670
+
+Connections for cell 'ctmTdsLR_2_3547':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[29]
+    A2                  n291
+    B1                  n1mem[21]
+    B2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_671
+
+Connections for cell 'ctmTdsLR_2_3604':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_269
+    A2                  n175
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_690
+
+Connections for cell 'ctmTdsLR_2_3608':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tx_bit_cnt[0]
+    A2                  popt_net_693
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_694
+
+Connections for cell 'ctmTdsLR_2_3613':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n171
+    A2                  popt_net_164
+    B                   popt_net_695
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n102
+
+Connections for cell 'ctmTdsLR_2_3633':
+    Reference:          NR2D8
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_531
+    A2                  popt_net_532
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n13
+
+Connections for cell 'ctmTdsLR_2_3636':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   popt_net_230
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_703
+
+Connections for cell 'ctmTdsLR_2_3650':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_708
+
+Connections for cell 'ctmTdsLR_2_3958':
+    Reference:          NR4D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n131
+    A2                  n179
+    A3                  n178
+    A4                  tx_bit_cnt[3]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_716
+
+Connections for cell 'ctmTdsLR_2_3964':
+    Reference:          AOI22D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[9]
+    A2                  n281
+    B1                  n1mem[1]
+    B2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_719
+
+Connections for cell 'ctmTdsLR_2_3971':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n14
+    A2                  mem[20]
+    B1                  n9
+    B2                  mem[28]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_721
+
+Connections for cell 'ctmTdsLR_2_3986':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n14
+    A2                  mem[21]
+    B1                  n9
+    B2                  mem[29]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_724
+
+Connections for cell 'ctmTdsLR_2_4043':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n56
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_737
+
+Connections for cell 'ctmTdsLR_2_4058':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_735
+    A2                  n88
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_744
+
+Connections for cell 'ctmTdsLR_2_4062':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_bit_cnt[0]
+    A2                  n155
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_745
+
+Connections for cell 'ctmTdsLR_2_4089':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[26]
+    A2                  n291
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_748
+
+Connections for cell 'ctmTdsLR_2_4095':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[20]
+    A2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_751
+
+Connections for cell 'ctmTdsLR_2_4116':
+    Reference:          NR3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_484
+    A2                  copt_net_716
+    A3                  popt_net_150
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_762
+
+Connections for cell 'ctmTdsLR_2_4119':
+    Reference:          ND2D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  wp[1]
+    A2                  we_i
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_764
+
+Connections for cell 'ctmTdsLR_2_4123':
+    Reference:          OR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  cts_i
+    A2                  shift_en
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   copt_net_765
+
+Connections for cell 'ctmTdsLR_2_4137':
+    Reference:          MUX2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I0                  n301
+    I1                  net4408
+    S                   net5142
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n451
+
+Connections for cell 'ctmTdsLR_2_4154':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n19
+    A2                  mem[3]
+    B1                  n13
+    B2                  mem[11]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_777
+
+Connections for cell 'ctmTdsLR_2_4160':
+    Reference:          OAI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n155
+    A2                  rx_bit_cnt[2]
+    B                   copt_net_780
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_781
+
+Connections for cell 'ctmTdsLR_2_4166':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   tx_bit_cnt[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n178
+
+Connections for cell 'ctmTdsLR_2_4194':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_792
+
+Connections for cell 'ctmTdsLR_2_4204':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n201
+    A2                  hold_reg[3]
+    B1                  n199
+    B2                  hold_reg[4]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_793
+
+Connections for cell 'ctmTdsLR_2_4212':
+    Reference:          AOI21D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n158
+    A2                  copt_net_799
+    B                   copt_net_800
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n92
+
+Connections for cell 'ctmTdsLR_2_4261':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n391
+    A2                  popt_net_173
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_810
+
+Connections for cell 'ctmTdsLR_2_4267':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n14
+    A2                  mem[22]
+    B1                  n9
+    B2                  mem[30]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_811
+
+Connections for cell 'ctmTdsLR_2_4271':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n9
+    A2                  mem[31]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_813
+
+Connections for cell 'ctmTdsLR_2_4274':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_814
+
+Connections for cell 'ctmTdsLR_2_4279':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rx_bit_cnt[0]
+    A2                  n155
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_815
+
+Connections for cell 'ctmTdsLR_2_4294':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n115
+    A2                  rx_valid_r
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_823
+
+Connections for cell 'ctmTdsLR_2_4296':
+    Reference:          NR4D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  copt_net_824
+    A2                  rx_bit_cnt[1]
+    A3                  rx_bit_cnt[2]
+    A4                  n165
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n114
+
+Connections for cell 'ctmTdsLR_2_4312':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   popt_net_587
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_829
+
+Connections for cell 'ctmTdsLR_2_4341':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n14
+    A2                  mem[18]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_840
+
+Connections for cell 'ctmTdsLR_2_4421':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_700
+    A2                  popt_net_702
+    B1                  popt_net_703
+    B2                  popt_net_705
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net875
+
+Connections for cell 'ctmTdsLR_2_4427':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n201
+    A2                  hold_reg[4]
+    B1                  n199
+    B2                  hold_reg[5]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net876
+
+Connections for cell 'ctmTdsLR_2_4429_roptpi_4469':
+    Reference:          AN2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  dpll_state_0_
+    A2                  tmp_net877
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   tmp_net878
+
+Connections for cell 'ctmTdsLR_2_4438':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[19]
+    A2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net883
+
+Connections for cell 'ctmTdsLR_2_4441':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n121
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net885
+
+Connections for cell 'ctmTdsLR_2_4444':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[22]
+    A2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net887
+
+Connections for cell 'ctmTdsLR_2_4447':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[24]
+    A2                  n291
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net889
+
+Connections for cell 'ctmTdsLR_2_4451':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[5]
+    A2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net891
+
+Connections for cell 'ctmTdsLR_2_4455':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[15]
+    A2                  n281
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net893
+
+Connections for cell 'ctmTdsLR_2_4458':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net895
+    A2                  n131
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net896
+
+Connections for cell 'ctmTdsLR_2_4461':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n87
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net897
+
+Connections for cell 'ctmTdsLR_3_445_roptpi_4465':
+    Reference:          AN2D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n151
+    A2                  popt_net_11
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_12
+
+Connections for cell 'ctmTdsLR_3_1255':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n144
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_143
+
+Connections for cell 'ctmTdsLR_3_1271':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rst
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_150
+
+Connections for cell 'ctmTdsLR_3_1353':
+    Reference:          NR2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net125
+    A2                  n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_173
+
+Connections for cell 'ctmTdsLR_3_1438':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   net5075
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_211
+
+Connections for cell 'ctmTdsLR_3_1441':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n36
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_213
+
+Connections for cell 'ctmTdsLR_3_1453':
+    Reference:          AN2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  rst
+    A2                  sio_ce
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_218
+
+Connections for cell 'ctmTdsLR_3_1491':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N8
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_231
+
+Connections for cell 'ctmTdsLR_3_1534':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n201
+    A2                  hold_reg[5]
+    B1                  n199
+    B2                  hold_reg[6]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_248
+
+Connections for cell 'ctmTdsLR_3_1537':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n46
+    A2                  n5
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_250
+
+Connections for cell 'ctmTdsLR_3_1867':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n13
+    A2                  mem[15]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_362
+
+Connections for cell 'ctmTdsLR_3_1872':
+    Reference:          AOI21D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n201
+    A2                  hold_reg[8]
+    B                   n199
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_61
+
+Connections for cell 'ctmTdsLR_3_2444':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gb
+    A2                  copt_net_918
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_435
+
+Connections for cell 'ctmTdsLR_3_2483':
+    Reference:          ND3D3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tmp_net456
+    A2                  n127
+    A3                  tmp_net457
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n163
+
+Connections for cell 'ctmTdsLR_3_2972':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tx_bit_cnt[3]
+    A2                  n134
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_483
+
+Connections for cell 'ctmTdsLR_3_3101':
+    Reference:          AN3D4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  gre_INV_149_4
+    A2                  gre_INV_66_4
+    A3                  we_i
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   n16
+
+Connections for cell 'ctmTdsLR_3_3119':
+    Reference:          INVD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   N9
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_532
+
+Connections for cell 'ctmTdsLR_3_3343':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n291
+    A2                  n1mem[28]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_594
+
+Connections for cell 'ctmTdsLR_3_3347':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_597
+
+Connections for cell 'ctmTdsLR_3_3513':
+    Reference:          AOI22D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[11]
+    A2                  n281
+    B1                  n1mem[3]
+    B2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  n1710
+
+Connections for cell 'ctmTdsLR_3_3609':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   popt_net_218
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_693
+
+Connections for cell 'ctmTdsLR_3_3614':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n136
+    A2                  popt_net_164
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_695
+
+Connections for cell 'ctmTdsLR_3_3629':
+    Reference:          NR2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_213
+    A2                  popt_net_701
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_702
+
+Connections for cell 'ctmTdsLR_3_3637':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_704
+    A2                  popt_net_231
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_705
+
+Connections for cell 'ctmTdsLR_3_4090':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[10]
+    A2                  n281
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_749
+
+Connections for cell 'ctmTdsLR_3_4117':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_619
+    A2                  n122
+    A3                  tx_bit_cnt[3]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_763
+
+Connections for cell 'ctmTdsLR_3_4126':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_469
+    A2                  n88
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_767
+
+Connections for cell 'ctmTdsLR_3_4155':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n14
+    A2                  mem[19]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_778
+
+Connections for cell 'ctmTdsLR_3_4161':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n165
+    A2                  n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_780
+
+Connections for cell 'ctmTdsLR_3_4167':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  tx_bit_cnt[1]
+    A2                  tx_bit_cnt[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_619
+
+Connections for cell 'ctmTdsLR_3_4297':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_824
+
+Connections for cell 'ctmTdsLR_3_4313':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_213
+    A2                  copt_net_830
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_831
+
+Connections for cell 'ctmTdsLR_3_4330':
+    Reference:          AOI22D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n19
+    A2                  mem[0]
+    B1                  n13
+    B2                  mem[8]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_833
+
+Connections for cell 'ctmTdsLR_3_4430':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   sio_ce_x4
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net877
+
+Connections for cell 'ctmTdsLR_3_4439':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[27]
+    A2                  n291
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net884
+
+Connections for cell 'ctmTdsLR_3_4442':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_21
+    A2                  rx_bit_cnt[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net886
+
+Connections for cell 'ctmTdsLR_3_4445':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n291
+    A2                  n1mem[30]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net888
+
+Connections for cell 'ctmTdsLR_3_4448':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[16]
+    A2                  n251
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net890
+
+Connections for cell 'ctmTdsLR_3_4452':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[13]
+    A2                  n281
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net892
+
+Connections for cell 'ctmTdsLR_3_4456':
+    Reference:          ND2D0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n1mem[7]
+    A2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net894
+
+Connections for cell 'ctmTdsLR_3_4459':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   tx_bit_cnt[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net895
+
+Connections for cell 'ctmTdsLR_3_4462':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  sio_ce
+    A2                  n90
+    A3                  tmp_net899
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net900
+
+Connections for cell 'ctmTdsLR_4_702':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n206
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_90
+
+Connections for cell 'ctmTdsLR_4_714':
+    Reference:          XOR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  net5141
+    A2                  n1wp[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   popt_net_97
+
+Connections for cell 'ctmTdsLR_4_1205':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  popt_net_96
+    A2                  n145
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_135
+
+Connections for cell 'ctmTdsLR_4_1293':
+    Reference:          INVD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   n118
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_159
+
+Connections for cell 'ctmTdsLR_4_1354':
+    Reference:          ND3D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n371
+    A2                  gb1
+    A3                  popt_net_90
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_175
+
+Connections for cell 'ctmTdsLR_4_1868':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n14
+    A2                  mem[23]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_363
+
+Connections for cell 'ctmTdsLR_4_2445':
+    Reference:          XNR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n48
+    A2                  N9
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_436
+
+Connections for cell 'ctmTdsLR_4_3630':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   mem[24]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_701
+
+Connections for cell 'ctmTdsLR_4_3638':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   mem[16]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  popt_net_704
+
+Connections for cell 'ctmTdsLR_4_4091':
+    Reference:          AOI22D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n251
+    A2                  n1mem[18]
+    B1                  n1mem[2]
+    B2                  n94
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_750
+
+Connections for cell 'ctmTdsLR_4_4156':
+    Reference:          ND2D2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n9
+    A2                  mem[27]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_779
+
+Connections for cell 'ctmTdsLR_4_4214':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   rx_bit_cnt[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_798
+
+Connections for cell 'ctmTdsLR_4_4314':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   mem[26]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_830
+
+Connections for cell 'ctmTdsLR_5_4215':
+    Reference:          NR2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n133
+    A2                  rx_bit_cnt[2]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  copt_net_800
+
+Connections for cell 'ctmTdsLR_5_4464':
+    Reference:          ND2D1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    A1                  n210
+    A2                  n209
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  tmp_net899
+
+Connections for cell 'ctosc_gls_inst_3826':
+    Reference:          CKBD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_0
+
+Connections for cell 'ctosc_gls_inst_3827':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctsctobgt_st1_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_1
+
+Connections for cell 'ctosc_gls_inst_3828':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_2
+
+Connections for cell 'ctosc_gls_inst_3829':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_3
+
+Connections for cell 'ctosc_gls_inst_3830':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_4
+
+Connections for cell 'ctosc_gls_inst_3831':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_5
+
+Connections for cell 'ctosc_gls_inst_3832':
+    Reference:          CKBD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_2
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_6
+
+Connections for cell 'ctosc_gls_inst_3833':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_7
+
+Connections for cell 'ctosc_gls_inst_3834':
+    Reference:          CKBD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_2
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_8
+
+Connections for cell 'ctosc_gls_inst_3835':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_9
+
+Connections for cell 'ctosc_gls_inst_3836':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_10
+
+Connections for cell 'ctosc_gls_inst_3837':
+    Reference:          CKBD1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctosc_gls_11
+
+Connections for cell 'ctsctobgt_st1_inst_3943':
+    Reference:          CKBD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   ctosc_gls_3
+
+    Output Pins         Net
+    ----------------    ------------
+    Z                   ctsctobgt_st1_0
+
+Connections for cell 'dpll_state_reg_0_':
+    Reference:          DFSNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n86
+    CP                  clk
+    SDN                 n118
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   dpll_state_0_
+
+Connections for cell 'dpll_state_reg_1_':
+    Reference:          DFCNQND2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n212
+    CP                  clk
+    CDN                 n118
+
+    Output Pins         Net
+    ----------------    ------------
+    QN                  n145
+
+Connections for cell 'gb_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n961
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   gb
+
+Connections for cell 'gb_reg1':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n481
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   gb1
+
+Connections for cell 'gre_INV_58_inst_4512':
+    Reference:          INVD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   gb
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  gre_INV_58_4
+
+Connections for cell 'gre_INV_66_inst_4515':
+    Reference:          INVD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   wp[0]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  gre_INV_66_4
+
+Connections for cell 'gre_INV_149_inst_4514':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   wp[1]
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  gre_INV_149_4
+
+Connections for cell 'gre_INV_520_inst_4513':
+    Reference:          INVD3
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    I                   shift_en
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  gre_INV_520_4
+
+Connections for cell 'hold_reg_reg_0_':
+    Reference:          DFQND1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n112
+    CP                  ctosc_gls_3
+
+    Output Pins         Net
+    ----------------    ------------
+    QN                  n90
+
+Connections for cell 'hold_reg_reg_1_':
+    Reference:          DFQND1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n111
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    QN                  n89
+
+Connections for cell 'hold_reg_reg_2_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n110
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[2]
+
+Connections for cell 'hold_reg_reg_3_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n109
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[3]
+
+Connections for cell 'hold_reg_reg_4_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n108
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[4]
+
+Connections for cell 'hold_reg_reg_5_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n107
+    CP                  ctosc_gls_11
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[5]
+
+Connections for cell 'hold_reg_reg_6_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n106
+    CP                  ctosc_gls_10
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[6]
+
+Connections for cell 'hold_reg_reg_7_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n105
+    CP                  ctosc_gls_9
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[7]
+
+Connections for cell 'hold_reg_reg_8_':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n104
+    CP                  ctosc_gls_7
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   hold_reg[8]
+
+Connections for cell 'load_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   N19
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   load
+
+Connections for cell 'mem_reg_0__0_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_903
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[24]
+
+Connections for cell 'mem_reg_0__0_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_917
+    E                   net4403
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[24]
+
+Connections for cell 'mem_reg_0__1_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_902
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[25]
+
+Connections for cell 'mem_reg_0__1_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_901
+    E                   net4403
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[25]
+
+Connections for cell 'mem_reg_0__2_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_904
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[26]
+
+Connections for cell 'mem_reg_0__2_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_909
+    E                   net4403
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[26]
+
+Connections for cell 'mem_reg_0__3_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_906
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[27]
+
+Connections for cell 'mem_reg_0__3_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_921
+    E                   net4403
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[27]
+
+Connections for cell 'mem_reg_0__4_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_905
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[28]
+
+Connections for cell 'mem_reg_0__4_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_913
+    E                   net4403
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[28]
+
+Connections for cell 'mem_reg_0__5_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_914
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[29]
+
+Connections for cell 'mem_reg_0__5_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_920
+    E                   net4403
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[29]
+
+Connections for cell 'mem_reg_0__6_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   din_i[6]
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[30]
+
+Connections for cell 'mem_reg_0__6_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_922
+    E                   net4403
+    CP                  ctosc_gls_5
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[30]
+
+Connections for cell 'mem_reg_0__7_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_908
+    E                   n16
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[31]
+
+Connections for cell 'mem_reg_0__7_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_916
+    E                   net4403
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[31]
+
+Connections for cell 'mem_reg_1__0_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_903
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[16]
+
+Connections for cell 'mem_reg_1__0_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_917
+    E                   net4613
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[16]
+
+Connections for cell 'mem_reg_1__1_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_902
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[17]
+
+Connections for cell 'mem_reg_1__1_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_901
+    E                   net4613
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[17]
+
+Connections for cell 'mem_reg_1__2_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_904
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[18]
+
+Connections for cell 'mem_reg_1__2_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_909
+    E                   net4613
+    CP                  ctosc_gls_6
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[18]
+
+Connections for cell 'mem_reg_1__3_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_906
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[19]
+
+Connections for cell 'mem_reg_1__3_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_921
+    E                   net4613
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[19]
+
+Connections for cell 'mem_reg_1__4_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_905
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[20]
+
+Connections for cell 'mem_reg_1__4_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_913
+    E                   net4613
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[20]
+
+Connections for cell 'mem_reg_1__5_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_914
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[21]
+
+Connections for cell 'mem_reg_1__5_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_920
+    E                   net4613
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[21]
+
+Connections for cell 'mem_reg_1__6_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_907
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[22]
+
+Connections for cell 'mem_reg_1__6_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_922
+    E                   net4613
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[22]
+
+Connections for cell 'mem_reg_1__7_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_908
+    E                   n10
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[23]
+
+Connections for cell 'mem_reg_1__7_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_916
+    E                   net4613
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[23]
+
+Connections for cell 'mem_reg_2__0_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_903
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[8]
+
+Connections for cell 'mem_reg_2__0_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_917
+    E                   net5095
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[8]
+
+Connections for cell 'mem_reg_2__1_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_902
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[9]
+
+Connections for cell 'mem_reg_2__1_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_901
+    E                   net5095
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[9]
+
+Connections for cell 'mem_reg_2__2_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   din_i[2]
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[10]
+
+Connections for cell 'mem_reg_2__2_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_909
+    E                   net5095
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[10]
+
+Connections for cell 'mem_reg_2__3_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_906
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[11]
+
+Connections for cell 'mem_reg_2__3_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_921
+    E                   net5095
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[11]
+
+Connections for cell 'mem_reg_2__4_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   din_i[4]
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[12]
+
+Connections for cell 'mem_reg_2__4_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_913
+    E                   net5095
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[12]
+
+Connections for cell 'mem_reg_2__5_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   din_i[5]
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[13]
+
+Connections for cell 'mem_reg_2__5_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_920
+    E                   net5095
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[13]
+
+Connections for cell 'mem_reg_2__6_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   din_i[6]
+    E                   n15
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[14]
+
+Connections for cell 'mem_reg_2__6_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_922
+    E                   net5095
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[14]
+
+Connections for cell 'mem_reg_2__7_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_908
+    E                   n15
+    CP                  ctosc_gls_4
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[15]
+
+Connections for cell 'mem_reg_2__7_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_916
+    E                   net5095
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[15]
+
+Connections for cell 'mem_reg_3__0_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_903
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[0]
+
+Connections for cell 'mem_reg_3__0_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_917
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[0]
+
+Connections for cell 'mem_reg_3__1_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_902
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[1]
+
+Connections for cell 'mem_reg_3__1_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_901
+    E                   net4612
+    CP                  ctosc_gls_1
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[1]
+
+Connections for cell 'mem_reg_3__2_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_904
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[2]
+
+Connections for cell 'mem_reg_3__2_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_909
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[2]
+
+Connections for cell 'mem_reg_3__3_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_906
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[3]
+
+Connections for cell 'mem_reg_3__3_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_921
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[3]
+
+Connections for cell 'mem_reg_3__4_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_905
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[4]
+
+Connections for cell 'mem_reg_3__4_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_913
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[4]
+
+Connections for cell 'mem_reg_3__5_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_914
+    E                   n17
+    CP                  ctosc_gls_3
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[5]
+
+Connections for cell 'mem_reg_3__5_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_920
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[5]
+
+Connections for cell 'mem_reg_3__6_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_907
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[6]
+
+Connections for cell 'mem_reg_3__6_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_922
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[6]
+
+Connections for cell 'mem_reg_3__7_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_908
+    E                   n17
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   mem[7]
+
+Connections for cell 'mem_reg_3__7_1':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_916
+    E                   net4612
+    CP                  ctosc_gls_8
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1mem[7]
+
+Connections for cell 'optlc_4495':
+    Reference:          TIEL
+    
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  optlc_net_923
+
+Connections for cell 'optlc_4496':
+    Reference:          TIEL
+    
+
+    Output Pins         Net
+    ----------------    ------------
+    ZN                  optlc_net_924
+
+Connections for cell 'rp_reg_0_':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n1061
+    CP                  clk
+    CDN                 copt_net_918
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   N8
+
+Connections for cell 'rp_reg_0_1':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n461
+    CP                  clk
+    CDN                 n118
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   N81
+
+Connections for cell 'rp_reg_1_':
+    Reference:          DFCNQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n1051
+    CP                  clk
+    CDN                 copt_net_918
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   N9
+
+Connections for cell 'rp_reg_1_1':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n471
+    CP                  clk
+    CDN                 n118
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   N91
+
+Connections for cell 'rts_o_reg':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   ZBUF_2_0
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rts_o
+
+Connections for cell 'rx_bit_cnt_reg_0_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n96
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_bit_cnt[0]
+
+Connections for cell 'rx_bit_cnt_reg_1_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n97
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_bit_cnt[1]
+
+Connections for cell 'rx_bit_cnt_reg_2_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n92
+    CP                  ctosc_gls_2
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_bit_cnt[2]
+
+Connections for cell 'rx_bit_cnt_reg_3_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n95
+    CP                  ctosc_gls_2
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_bit_cnt[3]
+
+Connections for cell 'rx_go_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   N128
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_go
+
+Connections for cell 'rx_sio_ce_r1_reg':
+    Reference:          DFKCNQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    CN                  n145
+    D                   dpll_state_0_
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_sio_ce_r1
+
+Connections for cell 'rx_sio_ce_r2_reg':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rx_sio_ce_r1
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_sio_ce_r2
+
+Connections for cell 'rx_sio_ce_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   N118
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_sio_ce
+
+Connections for cell 'rx_valid_r_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rx_valid
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_valid_r
+
+Connections for cell 'rx_valid_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n114
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rx_valid
+
+Connections for cell 'rxd_r_reg':
+    Reference:          DFQND1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxd_s
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    QN                  n93
+
+Connections for cell 'rxd_s_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxd_i
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxd_s
+
+Connections for cell 'rxr_reg_2_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxr[3]
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[2]
+
+Connections for cell 'rxr_reg_3_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_909
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[3]
+
+Connections for cell 'rxr_reg_4_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxr[5]
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[4]
+
+Connections for cell 'rxr_reg_5_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_913
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[5]
+
+Connections for cell 'rxr_reg_6_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   copt_net_920
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[6]
+
+Connections for cell 'rxr_reg_7_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxr[8]
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[7]
+
+Connections for cell 'rxr_reg_8_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxr[9]
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[8]
+
+Connections for cell 'rxr_reg_9_':
+    Reference:          EDFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   rxd_s
+    E                   n135
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   rxr[9]
+
+Connections for cell 'shift_en_r_reg':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n91
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   shift_en_r
+
+Connections for cell 'shift_en_reg':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   N123
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   shift_en
+
+Connections for cell 'tx_bit_cnt_reg_0_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n103
+    CP                  clk
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   tx_bit_cnt[0]
+
+Connections for cell 'tx_bit_cnt_reg_1_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n102
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   tx_bit_cnt[1]
+
+Connections for cell 'tx_bit_cnt_reg_2_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n101
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   tx_bit_cnt[2]
+
+Connections for cell 'tx_bit_cnt_reg_3_':
+    Reference:          DFQD2
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n100
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   tx_bit_cnt[3]
+
+Connections for cell 'txd_o_reg':
+    Reference:          DFQND1
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n99
+    CP                  ctosc_gls_0
+
+    Output Pins         Net
+    ----------------    ------------
+    QN                  n87
+
+Connections for cell 'txf_empty_r_reg':
+    Reference:          DFQD0
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n113
+    CP                  ctosc_gls_3
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   txf_empty_r
+
+Connections for cell 'wp_reg_0_':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n1081
+    CP                  clk
+    CDN                 rst
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   wp[0]
+
+Connections for cell 'wp_reg_0_1':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n451
+    CP                  clk
+    CDN                 n118
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1wp[0]
+
+Connections for cell 'wp_reg_1_':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n1071
+    CP                  clk
+    CDN                 rst
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   wp[1]
+
+Connections for cell 'wp_reg_1_1':
+    Reference:          DFCNQD4
+    
+
+    Input Pins          Net
+    ----------------    ------------
+    D                   n441
+    CP                  clk
+    CDN                 n118
+
+    Output Pins         Net
+    ----------------    ------------
+    Q                   n1wp[1]
+
+1

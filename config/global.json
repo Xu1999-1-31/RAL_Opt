@@ -1,0 +1,16 @@
+{
+    "_comment": "Global shared config. All training stages inherit these settings.",
+
+    "_comment_y_keys": "Regression targets: slack_eco (post-ECO slack).",
+    "y_keys": ["slack_eco"],
+
+    "train_designs": ["design_m", "design_k"],
+    "test_designs":  ["design_n"],
+
+    "x_keys": [
+        "slack", "arrival", "trans", "ceff", "bbox",
+        "level", "is_port", "is_outpin", "is_clock_network", "is_async_pin"
+    ],
+
+    "device": "cuda"
+}
