@@ -73,8 +73,8 @@ Edit `config/global.json` to set your training/test design split and device:
 ```json
 {
     "y_keys": ["slack_eco"],
-    "train_designs": ["design_i", "design_k"],
-    "test_designs":  ["design_j"],
+    "train_designs": ["design_m", "design_k"],
+    "test_designs":  ["design_n"],
     "device": "cuda"
 }
 ```
